@@ -1,0 +1,248 @@
+2023-05-26 15:31:46,345 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:31:46,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 15:31:46,359 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:31:46,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 15:31:46,360 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 15:31:46,360 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 15:33:11,380 INFO DEFAULT_GROUP@@store-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:11,380 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-order-service, ips: 192.168.137.1:6004_true,
+
+2023-05-26 15:33:11,385 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-order-service, ips: 192.168.137.1:6004_true,
+
+2023-05-26 15:33:16,978 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:16,978 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 15:33:16,978 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:16,978 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 15:33:16,979 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 15:33:16,979 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 15:33:20,845 INFO DEFAULT_GROUP@@store-goods-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:20,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-goods-service, ips: 192.168.137.1:6003_true,
+
+2023-05-26 15:33:20,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-goods-service, ips: 192.168.137.1:6003_true,
+
+2023-05-26 15:33:25,062 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:25,062 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 15:33:25,063 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 15:33:25,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 15:33:25,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 15:33:25,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:24:20,348 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:20,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 
+
+2023-05-26 16:24:20,348 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:20,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 
+
+2023-05-26 16:24:20,408 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:20,408 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:24:20,409 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:20,409 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:24:47,844 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:47,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:24:47,845 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:47,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:24:47,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:24:47,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:24:52,439 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:52,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:24:52,440 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:24:52,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:24:52,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:24:52,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:39:43,314 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:39:43,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 
+
+2023-05-26 16:39:43,314 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:39:43,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 
+
+2023-05-26 16:39:43,473 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:39:43,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:39:43,473 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:39:43,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:40:08,069 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:40:08,069 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:40:08,070 INFO DEFAULT_GROUP@@store-identity-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:40:08,070 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-identity-service, ips: 192.168.137.1:6002_true,
+
+2023-05-26 16:40:11,565 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:40:11,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:40:11,566 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:40:11,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:40:11,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:40:11,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:46:00,067 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:46:00,067 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:46:00,067 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:46:00,067 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 16:46:15,983 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:46:15,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:46:15,983 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:46:15,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:46:15,984 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:46:15,984 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 16:49:01,191 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:49:01,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 
+
+2023-05-26 16:49:01,191 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:49:01,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 
+
+2023-05-26 16:49:18,358 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:49:18,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 16:49:18,358 INFO DEFAULT_GROUP@@store-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 16:49:18,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 16:49:18,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 16:49:18,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-gateway, ips: 192.168.137.1:9527_true,
+
+2023-05-26 17:08:34,478 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:08:34,478 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:08:34,478 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:08:34,478 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:08:53,261 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:08:53,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:08:53,261 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:08:53,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:08:53,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:08:53,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:20:02,491 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:20:02,491 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:20:02,491 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:20:02,491 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:20:21,638 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:20:21,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:20:21,638 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:20:21,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:20:21,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:20:21,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:25:54,295 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:25:54,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:25:54,295 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:25:54,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 17:26:14,363 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:26:14,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:26:14,363 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 17:26:14,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:26:14,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 17:26:14,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 20:06:50,366 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 20:06:50,366 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 20:06:50,366 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 20:06:50,366 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 
+
+2023-05-26 20:07:07,178 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 20:07:07,178 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 20:07:07,179 INFO DEFAULT_GROUP@@store-login-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:6001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-05-26 20:07:07,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 20:07:07,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 20:07:07,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@store-login-service, ips: 192.168.137.1:6001_true,
+
+2023-05-26 20:50:21,312 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:6003@DEFAULT@DEFAULT_GROUP@@store-goods-service, region: unknown, msg: client timeout after 15000, last beat: 1685105406176
+
+2023-05-26 20:50:34,180 INFO service: DEFAULT_GROUP@@store-goods-service {POS} {IP-ENABLED} valid: 192.168.137.1:6003@DEFAULT, region: unknown, msg: client beat ok
+
